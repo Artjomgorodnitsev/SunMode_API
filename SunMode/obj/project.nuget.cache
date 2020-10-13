@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KVEwAO1iPTLKF4bkerwVHM64oMPIy9GdHdFSEGIVovPfgnaIH2lx4gkBVJUFwut2CSCGO7Hk8uUigg0Pbpmxkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\SunMode\\SunMode\\SunMode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\opilane\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
